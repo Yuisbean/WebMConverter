@@ -4,7 +4,7 @@ A wrapper around ffmpeg and Avisynth made for converting videos to WebM without 
 
 Download it [here](https://github.com/nixxquality/WebMConverter/releases).
 Download the latest Converter.zip.
-Don't run ffmpeg.exe you git, run WebMConverter.exe.
+Don't run ffmpeg.exe you baka, run WebMConverter.exe.
 And I shouldn't have to tell you to extract the zip file first.
 Also, don't click "Download ZIP" on the right side of the page, that'll only download the source. (unless you want to compile it yourself, obviously)
 
