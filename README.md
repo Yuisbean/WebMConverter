@@ -1,4 +1,4 @@
-WebM for Gits [![Build status](https://ci.appveyor.com/api/projects/status/2pekcy840jr7atft)](https://ci.appveyor.com/project/nixxquality/webmconverter)
+WebM for Bakas [![Build status](https://ci.appveyor.com/api/projects/status/2pekcy840jr7atft)](https://ci.appveyor.com/project/nixxquality/webmconverter)
 =============
 A wrapper around ffmpeg and Avisynth made for converting videos to WebM without having to use the command line.
 
@@ -15,3 +15,5 @@ Important to know:
 * Only works on Windows (I assume Linux users don't need GUIs)
 
 This software is released under the MIT license. See [LICENSE.md](https://github.com/WebMBro/WebMConverter/blob/master/LICENSE.md).
+
+This fork of Webm for Gits has a much more appealing and kawaii name. Fell free to think of your favourite Tsundere as you use this.
